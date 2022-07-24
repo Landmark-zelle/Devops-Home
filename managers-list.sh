@@ -10,3 +10,4 @@ Latoya
 Taylin
 Tiana
 Gaby
+Class28
